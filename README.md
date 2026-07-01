@@ -51,4 +51,4 @@ Este projeto faz parte do meu aprendizado na área de desenvolvimento web e ser�
 
 ## 👩‍💻 Autora
 
-Crislei Keli — em formação na área de desenvolvimento de sistemas.
+Crislei Keli — estudante de BTI
